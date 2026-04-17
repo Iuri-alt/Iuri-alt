@@ -2,7 +2,7 @@
 
 - 🌱 Estou estudando analise e desenvolvimento de sistemas
 - 📫 Meu email é: iuri3456@outlook.com
-- 🧰 Meu Linkedin: https://www.linkedin.com/in/iuri-silva-581584156
+- 🧰 Meu Linkedin: https://www.linkedin.com/in/iuri-silva
 - 🌐 Instagram: https://instagram.com/iuriasilva
   
 <div style="display: inline_block"><br>
