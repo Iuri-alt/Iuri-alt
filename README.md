@@ -5,7 +5,7 @@
 - 🧰 Meu Linkedin: https://www.linkedin.com/in/iuri-silva
 - 🌐 Instagram: https://instagram.com/iuriasilva
   
-<div align="center">
+<div align="flex-start">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" style="margin-right: 10px;"/>
