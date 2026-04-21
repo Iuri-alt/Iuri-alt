@@ -1,6 +1,6 @@
 ## Olá!! Eu sou Iuri Silva
 
-- Estou estudando analise e desenvolvimento de sistemas
+- Estudante de analise e desenvolvimento de sistemas
 - Meu email é: iuri3456@outlook.com
 - Meu Linkedin: https://www.linkedin.com/in/iuri-silva
 - Instagram: https://instagram.com/iuriasilva
