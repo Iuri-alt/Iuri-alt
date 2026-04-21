@@ -1,9 +1,9 @@
 ## Olá!! Eu sou Iuri Silva
 
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/50f544d9-73c2-42bf-ac7f-ccb235ba4f3d" /> Estou estudando analise e desenvolvimento de sistemas
-- 📫 Meu email é: iuri3456@outlook.com
-- 🧰 Meu Linkedin: https://www.linkedin.com/in/iuri-silva
-- 🌐 Instagram: https://instagram.com/iuriasilva
+- Estou estudando analise e desenvolvimento de sistemas
+- Meu email é: iuri3456@outlook.com
+- Meu Linkedin: https://www.linkedin.com/in/iuri-silva
+- Instagram: https://instagram.com/iuriasilva
   
 <div align="flex-start">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" style="margin-right: 10px;"/>
