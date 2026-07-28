@@ -1,23 +1,81 @@
-## Olá!! Eu sou Iuri Silva
+# 👋 Olá, eu sou o Iuri Silva
 
-- Estudante de analise e desenvolvimento de sistemas
-- Meu email é: iuri3456@outlook.com
-- Meu Linkedin: https://www.linkedin.com/in/iuri-silva
-- Instagram: https://instagram.com/iuriasilva
+## 🚀 Sobre mim
 
-Tecnologias front end
-<div align="flex-start">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" style="margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" style="margin-right: 10px;"/>    
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💡 Interesse em Desenvolvimento Web, Mobile e APIs
+- 🔥 Atualmente estudando Flutter, FastAPI e Banco de Dados
+- 🎯 Objetivo: atuar como Desenvolvedor Full Stack
+
+---
+
+## 🛠️ Tecnologias
+
+### 🎨 Front-end
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,flutter" />
+</p>
+
+### ⚙️ Back-end
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql" />
+</p>
+
+### 🧰 Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
+</p>
+
+---
+
+## 📈 Estatísticas
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+
 </div>
 
-Tecnologias Backend  
-<div align="flex-start">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" style="margin-right: 10px;"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" style="margin-right: 10px;"/>          
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark&hide_border=true"/>
+
 </div>
 
+---
+
+## 📫 Contato
+
+<p align="left">
+
+<a href="mailto:iuri3456@outlook.com">
+<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/iuri-silva">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/iuriasilva">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💻 "Transformando ideias em código, um commit de cada vez."
+
+</div>
 
