@@ -35,9 +35,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=iuri-alt&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuri-alt&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=iuri-alt&theme=github-dark&hide_border=true"/>
 
 </div>
 
