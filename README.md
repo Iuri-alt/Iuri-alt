@@ -33,7 +33,7 @@
 
 ## 📫 Contato
 
-<p align="left">
+<p align="space-between">
 
 <a href="mailto:iuri3456@outlook.com">
 <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
