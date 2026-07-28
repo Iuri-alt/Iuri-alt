@@ -33,22 +33,19 @@
 
 ## 📫 Contato
 
-<p align="space-between">
+<p align="left">
+  <a href="mailto:iuri3456@outlook.com" style="margin-right: 12px;">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
 
-<a href="mailto:iuri3456@outlook.com">
-<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/iuri-silva" style="margin-right: 12px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/iuri-silva">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/iuriasilva">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+  <a href="https://instagram.com/iuriasilva">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
-
 ---
 
 <div align="center">
