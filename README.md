@@ -14,7 +14,7 @@
 ### 🎨 Front-end
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,angular,typescript" />
 </p>
 
 ### ⚙️ Back-end
